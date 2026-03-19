@@ -141,6 +141,5 @@ Dealiasing: not applied at default parameters. If high-k instabilities appear
 ## Framework
 
 White paper: [Relational Structure in Magnetohydrodynamic Systems](https://github.com/Relational-Relativity-Corporation/metatron-dynamics-framework/blob/main/docs/relational-structure-in-mhd.pdf)
-White paper PDF: [relational-structure-in-mhd.pdf](https://github.com/Relational-Relativity-Corporation/metatron-dynamics-framework/blob/main/docs/relational-structure-in-mhd.pdf)
 Framework: [Invariant_Relational_Kernel_ABRCE](https://github.com/Relational-Relativity-Corporation/Invariant_Relational_Kernel_ABRCE)
 Org: [Relational-Relativity-Corporation](https://github.com/Relational-Relativity-Corporation)
